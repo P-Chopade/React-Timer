@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Timer/static/css/main.66976548.css",
+    "main.js": "/React-Timer/static/js/main.320177cf.js",
+    "static/media/ti.jpg": "/React-Timer/static/media/ti.689b4d0c7bb7d119e3a1.jpg",
+    "index.html": "/React-Timer/index.html",
+    "main.66976548.css.map": "/React-Timer/static/css/main.66976548.css.map",
+    "main.320177cf.js.map": "/React-Timer/static/js/main.320177cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66976548.css",
+    "static/js/main.320177cf.js"
+  ]
+}
